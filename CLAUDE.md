@@ -1,5 +1,7 @@
-@AGENTS.md
+# JSON to YAML/CSV Converter (moved)
 
-## Notes
+This tool moved to the consolidated tools site on 2026-09-03. **Do not edit anything here.**
 
-- World page (carbonless form). Conventions: workspace `AGENTS.md`, `docs/design-language.md` (tools section), the atlas. Verify at 1440 and 390 with Playwright `setViewportSize` before shipping.
+- Live: <https://tools.muhammadhassaanjaved.com/json-yaml-csv-converter/>
+- Source: `tools-hub` repo, `json-yaml-csv-converter/index.html` (workspace path `x:/crusher-labs/repos/tools-hub/json-yaml-csv-converter/`)
+- This repo serves a redirect stub only, and is kept for its history.
